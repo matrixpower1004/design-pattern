@@ -1,4 +1,4 @@
-package com.matrix.design.decorator;
+package com.matrix.design.decorator.ex01;
 
 /**
  * author         : Jason Lee
