@@ -1,35 +1,5 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
-
-# Created by https://www.toptal.com/developers/gitignore/api/java,windows,intellij+all,eclipse
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,windows,intellij+all,eclipse
+# Created by https://www.toptal.com/developers/gitignore/api/intellij+all,windows,java,eclipse
+# Edit at https://www.toptal.com/developers/gitignore?templates=intellij+all,windows,java,eclipse
 
 ### Eclipse ###
 .metadata
@@ -237,4 +207,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/java,windows,intellij+all,eclipse
+# End of https://www.toptal.com/developers/gitignore/api/intellij+all,windows,java,eclipse
