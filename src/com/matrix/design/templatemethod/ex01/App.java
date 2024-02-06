@@ -1,4 +1,4 @@
-package com.matrix.design.templatemethod;
+package com.matrix.design.templatemethod.ex01;
 
 /**
  * author         : Jason Lee
