@@ -1,12 +1,6 @@
 package com.matrix.design.adapter.ex02;
 
-/**
- * author         : Jason Lee
- * date           : 2023-06-05
- * description    :
- */
-
-// 220V가 들어와서 100V로 나가야 하기 때문에 기본적으로 110V를 상속받아야 한다.
+// 220V가 들어와서 110V로 나가야 하기 때문에 기본적으로 110V를 상속받아야 한다.
 // 자신의 형태는 110V.
 public class SocketAdapter implements Electronic110V {
 
