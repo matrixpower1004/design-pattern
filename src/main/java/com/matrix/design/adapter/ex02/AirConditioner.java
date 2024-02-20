@@ -1,10 +1,5 @@
 package com.matrix.design.adapter.ex02;
 
-/**
- * author         : Jason Lee
- * date           : 2023-06-05
- * description    :
- */
 public class AirConditioner implements Electronic220V{
 
     @Override

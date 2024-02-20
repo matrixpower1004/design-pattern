@@ -1,10 +1,5 @@
 package com.matrix.design.adapter.ex02;
 
-/**
- * author         : Jason Lee
- * date           : 2023-06-05
- * description    :
- */
 public class AdapterMain {
     public static void main(String[] args) {
         HairDryer hairDryer = new HairDryer();
