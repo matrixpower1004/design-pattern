@@ -1,4 +1,4 @@
-package com.matrix.design.observer;
+package com.matrix.design.observer.ex01;
 
 /**
  * author         : Jason Lee
